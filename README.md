@@ -1,1 +1,1 @@
-View my project [online](tommievangulik.github.io/assignment-playing-with-arrays/)
+View my project [online](https://tommievangulik.github.io/assignment-playing-with-arrays/index.html)
